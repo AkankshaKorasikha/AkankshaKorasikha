@@ -1,13 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+progress;Data+Science+%26+ML+Enthusiast;Building+scalable+systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+progress;Data+Science+%26+ML+Enthusiast;Building+useful+digital+experiences" alt="Typing introduction" />
   <h1>Akanksha Korasikha</h1>
 </div>
-
-<p align="center">
-  <a href="https://github.com/AkankshaKorasikha"><img src="https://komarev.com/ghpvc/?username=AkankshaKorasikha&style=for-the-badge&color=00f7ff" alt="Profile views" /></a>
-  <a href="https://github.com/AkankshaKorasikha"><img src="https://img.shields.io/github/followers/AkankshaKorasikha?style=for-the-badge&color=7c3aed&labelColor=0d1117" alt="Followers" /></a>
-  <a href="https://github.com/AkankshaKorasikha"><img src="https://img.shields.io/github/stars/AkankshaKorasikha?style=for-the-badge&color=f59e0b&labelColor=0d1117" alt="Stars" /></a>
-</p>
 
 <p align="center">
   <a href="mailto:akankshakorasikha07@gmail.com"><img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a>
@@ -20,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science & Engineering student passionate about building practical digital experiences with web technologies, data, and machine learning. I enjoy turning ideas into real-world projects that solve meaningful problems.
+I'm a Computer Science & Engineering student passionate about building practical digital experiences with web technologies, data, and machine learning. I enjoy turning ideas into real-world projects.
 
 - 🔭 Currently learning: scalable systems, cloud technologies, and advanced ML
 - 🌱 Focus areas: Full Stack Development, Data Science, Machine Learning
@@ -61,17 +55,15 @@ An ML-powered recommendation system designed to suggest suitable crops based on 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkankshaKorasikha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7c3aed&text_color=c9d1d9&card_width=500" alt="GitHub Stats" />
-</div>
+> Live contributions, repositories, and activity are available directly on my [GitHub profile](https://github.com/AkankshaKorasikha).
+>
+> This section intentionally avoids third-party statistics image services so the profile remains reliable and renders consistently with GitHub's light and dark themes.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaKorasikha&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AkankshaKorasikha&hide_border=true&background=0D1117&ring=00F7FF&fire=F59E0B&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</div>
+| Profile | Link |
+|---|---|
+| Repositories | [View all repositories](https://github.com/AkankshaKorasikha?tab=repositories) |
+| Contributions | [View contribution activity](https://github.com/AkankshaKorasikha) |
+| Projects | [View featured projects](https://github.com/AkankshaKorasikha?tab=repositories) |
 
 ---
 
@@ -115,10 +107,6 @@ Have an idea, internship opportunity, or open-source collaboration in mind? I'd 
 - 🌐 [GitHub](https://github.com/AkankshaKorasikha)
 - 🌐 [Portfolio](https://akankshakorasikha.github.io/Portfolio/)
 - 📱 +91-9392593773
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00f7ff,100:f59e0b&height=120&section=footer" alt="Footer" />
-</div>
 
 <p align="center">
   <em>Code with purpose. Build with passion.</em> ✨
