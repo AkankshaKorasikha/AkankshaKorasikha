@@ -108,7 +108,7 @@ An ML-powered recommendation system designed to suggest suitable crops based on 
 
 Have an idea, internship opportunity, or open-source collaboration in mind? I’d love to connect.
 
-- 📧 [akankshakorasikha07@gmail.com](mailto:akankshakorasikha07@gmail.com)
+- 📧 [korasikhaakhi@gmail.com](mailto:korasikhaakhi@gmail.com)
 - 🌐 [GitHub](https://github.com/AkankshaKorasikha)
 - 🌐 [Portfolio](https://akankshakorasikha.github.io/Portfolio/)
 - 📱 +91-9392593773
