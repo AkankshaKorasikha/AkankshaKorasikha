@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+progress;Data+Science+%26+ML+Enthusiast;Building+practical+digital+solutions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+progress;Data+Science+%26+ML+Enthusiast;Building+scalable+systems" alt="Typing animation" />
   <h1>Akanksha Korasikha</h1>
 </div>
 
@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-I’m a Computer Science & Engineering student passionate about building practical digital experiences with web technologies, data, and machine learning. I enjoy turning ideas into real-world projects, learning through hands-on work, and collaborating on meaningful solutions.
+I'm a Computer Science & Engineering student passionate about building practical digital experiences with web technologies, data, and machine learning. I enjoy turning ideas into real-world projects that solve meaningful problems.
 
 - 🔭 Currently learning: scalable systems, cloud technologies, and advanced ML
 - 🌱 Focus areas: Full Stack Development, Data Science, Machine Learning
@@ -62,8 +62,11 @@ An ML-powered recommendation system designed to suggest suitable crops based on 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkankshaKorasikha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub Stats" width="470" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaKorasikha&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkankshaKorasikha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7c3aed&text_color=c9d1d9&card_width=500" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaKorasikha&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -98,15 +101,15 @@ An ML-powered recommendation system designed to suggest suitable crops based on 
 - 🥇 Finalist — DR Code Hackathon (Feb 2025)
 - 📣 Social Media Lead — Amazon CPE Club, LPU
 - 🧠 Deep Learning — NPTEL SWAYAM, IIT Ropar
-- 🧰 The Data Scientist’s Toolbox — Johns Hopkins University
+- 🧰 The Data Scientist's Toolbox — Johns Hopkins University
 - 📚 Data Structures and Algorithms — Udemy
 - 🏭 Industrial Training in Data Science — Placify Technologies
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-Have an idea, internship opportunity, or open-source collaboration in mind? I’d love to connect.
+Have an idea, internship opportunity, or open-source collaboration in mind? I'd love to connect.
 
 - 📧 [korasikhaakhi@gmail.com](mailto:korasikhaakhi@gmail.com)
 - 🌐 [GitHub](https://github.com/AkankshaKorasikha)
