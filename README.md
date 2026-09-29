@@ -83,18 +83,6 @@ const akanksha = {
 
 ---
 
-## 🐍 Watch the contribution snake
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/AkankshaKorasikha/AkankshaKorasikha/output/github-contribution-grid-snake-dark.svg)
-
-> 💡 The snake animation appears after enabling the GitHub Actions workflow
-
-</div>
-
----
-
 ## 💼 Experience
 
 ### `Placify Technologies` · Data Analyst Intern
