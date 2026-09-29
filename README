@@ -1,88 +1,178 @@
-# 👩‍💻 Akanksha Korasikha
+<div align="center">
 
-🎓 **Computer Science & Engineering Student** at Lovely Professional University  
-🔍 Aspiring Full Stack Developer & Data Scientist | Problem Solver | Hackathon Finalist  
+# `>_` Akanksha Korasikha
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+progress;Data+Science+%26+ML+Enthusiast;Turning+ideas+into+working+software;Hackathon+Finalist+%7C+Problem+Solver" alt="Typing animation" />
 
-## 💡 About Me
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AkankshaKorasikha&style=for-the-badge&color=00f7ff" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AkankshaKorasikha?style=for-the-badge&color=7c3aed&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AkankshaKorasikha?style=for-the-badge&color=f59e0b&labelColor=0d1117" alt="Stars" />
+</p>
 
-I’m a passionate CSE undergrad with a strong interest in building real-world solutions using web technologies and data science. With hands-on experience in full stack development and data analytics, I enjoy creating scalable systems, intuitive dashboards, and impactful visualizations.
+<a href="mailto:akankshakorasikha07@gmail.com"><img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/akanksha-korasikha/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/AkankshaKorasikha"><img src="https://img.shields.io/badge/GitHub-F59E0B?style=for-the-badge&logo=github&logoColor=0d1117" alt="GitHub" /></a>
 
----
-
-## 🚀 Projects
-
-### 🔹 Lead Management System
-> Feb 2025  
-A backend-driven system to score and manage leads hierarchically and automate messaging.  
-**Tech Stack:** Node.js, MongoDB (native driver), HTML, CSS, JavaScript
-
-### 🔹 Grand Mart – E-commerce Website
-> Dec 2024  
-Responsive, user-friendly e-commerce platform with efficient state management and improved UX.  
-**Tech Stack:** React.js, Node.js, MongoDB, JavaScript, HTML, CSS
-
-### 🔹 Crop Recommendation System
-> Nov 2024  
-An ML-powered solution recommending crops based on soil and environment, integrated with a React frontend.  
-**Tech Stack:** R (Shiny, ggplot2), React.js, HTML, CSS, JavaScript
+</div>
 
 ---
 
-## 🧠 Skills
+## 🧑‍💻 `whoami`
 
-**Languages:** C, C++, Java, Python, JavaScript  
-**Frameworks & Tools:** React, Node.js, HTML, CSS, MongoDB, MySQL, Tableau  
-**Soft Skills:** Team Player, Project Management, Problem-Solving, Adaptability
+```javascript
+const akanksha = {
+  role: "Computer Science & Engineering Student",
+  university: "Lovely Professional University",
+  focus: ["Full Stack Development", "Data Science", "Machine Learning"],
+  currentlyLearning: ["Scalable systems", "Cloud technologies", "Advanced ML"],
+  superpower: "Turning coffee ☕ into clean, useful software 🚀",
+  funFact: "I enjoy solving problems almost as much as creating them!"
+};
+```
+
+> 🎯 I build practical digital experiences with web technologies and data. I love learning by shipping projects, experimenting with new tools, and collaborating on ideas that make a real-world impact.
 
 ---
 
-## 📊 Experience
+## ⚡ `./tech-stack`
 
-### 🏢 Placify Technologies  
-**Data Analyst Intern** | Jul 2024 – Sep 2024  
-- Developed and optimized ML models with 85%+ accuracy  
-- Processed 500,000+ data points, improving data quality and decision-making  
-- Created interactive dashboards using **R (Shiny)**, **ggplot2**, and **Tableau**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mongodb,mysql,r,git,github,vscode&perline=8" alt="Technology icons" />
+
+</div>
+
+---
+
+## 🚀 Featured Builds
+
+<table>
+<tr>
+<td width="50%">
+
+### 📇 Lead Management System
+
+A backend-driven platform that scores and manages leads hierarchically while automating messaging workflows.
+
+`Node.js` `MongoDB` `HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
+### 🛒 Grand Mart
+
+A responsive e-commerce experience with efficient state management and a focus on intuitive user experience.
+
+`React` `Node.js` `MongoDB` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌾 Crop Recommendation System
+
+An ML-powered application that recommends suitable crops from soil and environmental conditions.
+
+`R` `Shiny` `ggplot2` `React` `JavaScript`
+
+</td>
+<td width="50%">
+
+### 🧪 What I Like Building
+
+Data-driven products, useful dashboards, clean APIs, responsive interfaces, and solutions that turn complex problems into simple workflows.
+
+`Build` `Measure` `Learn` `Repeat`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkankshaKorasikha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=f59e0b" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaKorasikha&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=AkankshaKorasikha&hide_border=true&background=0D1117&ring=00F7FF&fire=F59E0B&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkankshaKorasikha&bg_color=0d1117&color=c9d1d9&line=00f7ff&point=f59e0b&area=true&hide_border=true" alt="Contribution graph" />
+
+</div>
+
+---
+
+## 🐍 Watch the contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AkankshaKorasikha/AkankshaKorasikha/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+
+</div>
+
+> **Note:** The snake animation appears after enabling a GitHub Actions workflow that generates the `output` branch.
+
+---
+
+## 💼 Experience
+
+### `Placify Technologies` · Data Analyst Intern
+**Jul 2024 – Sep 2024**
+
+- Optimized machine-learning models achieving **85%+ accuracy**.
+- Processed **500,000+ data points** to improve data quality and decision-making.
+- Built interactive dashboards with **R (Shiny), ggplot2, and Tableau**.
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Computer Science and Engineering**  
-Lovely Professional University, Punjab (2022 – Present)
-
-**Intermediate (88.2%)**  
-Sri Chaitanya Junior College, Vijayawada (2021 – 2022)
-
-**Matriculation (86%)**  
-Sri Chaitanya Techno School, Vijayawada (2019 – 2020)
+| Qualification | Institution | Period / Score |
+|---|---|---|
+| B.Tech, Computer Science & Engineering | Lovely Professional University, Punjab | 2022 – Present |
+| Intermediate | Sri Chaitanya Junior College, Vijayawada | 88.2% · 2021 – 2022 |
+| Matriculation | Sri Chaitanya Techno School, Vijayawada | 86% · 2019 – 2020 |
 
 ---
 
-## 📜 Certifications
+## 🏆 Achievements & Certifications
 
-- 🧠 *Deep Learning* – NPTEL SWAYAM, **IIT Ropar**  
-- 🧰 *The Data Scientist’s Toolbox* – Johns Hopkins University (Apr 2024)  
-- 📚 *Data Structures and Algorithms* – Udemy (Nov 2023)  
-- 🏭 *Industrial Training in Data Science* – Placify Technologies (Oct 2024)  
-
----
-
-## 🏆 Achievements
-
-- 🥇 Finalist – **DR Code Hackathon** (Feb 2025) among 400+ participants  
-- 📣 **Social Media Lead** – Amazon CPE Club, LPU
+- 🥇 **Finalist**, DR Code Hackathon — among 400+ participants (Feb 2025)
+- 📣 **Social Media Lead**, Amazon CPE Club, LPU
+- 🧠 **Deep Learning** — NPTEL SWAYAM, IIT Ropar
+- 🧰 **The Data Scientist’s Toolbox** — Johns Hopkins University
+- 📚 **Data Structures and Algorithms** — Udemy
+- 🏭 **Industrial Training in Data Science** — Placify Technologies
 
 ---
 
-## 📫 Let’s Connect
+## 💬 Let’s collaborate
 
-📧 Email: akankshakorasikha07@gmail.com  
-📞 Phone: +91-9392593773  
-🌐 GitHub: [github.com/AkankshaKorasikha](https://github.com/AkankshaKorasikha)
+<div align="center">
 
----
+Have an interesting idea, internship opportunity, or open-source project? Send me a message — I would love to connect!
 
-_“Code with purpose. Build with passion.”_
+📧 **[akankshakorasikha07@gmail.com](mailto:akankshakorasikha07@gmail.com)** · 🌐 **[GitHub](https://github.com/AkankshaKorasikha)**
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00f7ff,100:f59e0b&height=120&section=footer" alt="Colorful footer animation" />
+
+_`Code with purpose. Build with passion.`_ ✨
+
+</div>
